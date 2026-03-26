@@ -39,6 +39,7 @@ export default function Navbar() {
           <NavLink href="/members">Members</NavLink>
           <NavLink href="/announcements">Announcements</NavLink>
           <NavLink href="/finance">Finance</NavLink>
+          <NavLink href="/projects">Projects</NavLink>
           <NavLink href="/about">About</NavLink>
 
           {!loggedIn ? (
